@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee923ffc-522f-4d3b-aa89-18fafa8f4abe": {
+      "ProjectGuid": "ee923ffc-522f-4d3b-aa89-18fafa8f4abe",
+      "DisplayName": "Aplication",
+      "ColorIndex": 0
+    },
+    "aab0c7d8-bbfb-435c-8045-5170afd70e03": {
+      "ProjectGuid": "aab0c7d8-bbfb-435c-8045-5170afd70e03",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "74409ea1-5b9d-408d-8cbb-78acd88a4521": {
+      "ProjectGuid": "74409ea1-5b9d-408d-8cbb-78acd88a4521",
+      "DisplayName": "WebApi",
+      "ColorIndex": 2
+    },
+    "eb26fe6d-2a4c-4061-9d2b-f4b638c7eece": {
+      "ProjectGuid": "eb26fe6d-2a4c-4061-9d2b-f4b638c7eece",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
